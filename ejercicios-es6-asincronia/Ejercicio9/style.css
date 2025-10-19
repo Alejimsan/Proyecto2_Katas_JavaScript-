@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  font-family: sans-serif;
+  padding-top: 50px; 
+}
+
+.random-image {
+  max-width: 350px;
+  width: 100%;
+  height: auto; 
+  border: 4px solid #cc0000;
+  border-radius: 10px;   
+}
